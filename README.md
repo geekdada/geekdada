@@ -4,6 +4,6 @@
 - 📦 Building [Surgio](geekdada/surgio) and other fun stuff.
 - 📝 I'm learning Golang and Swift.
 
-Here's my [📘 blog](https://blog.dada.li).
+Here's my [**📘 blog**](https://blog.dada.li) and [**🐦 Twitter**](https://twitter.com/geekdada).
 
 [![](https://github-readme-stats.vercel.app/api?username=geekdada&show_icons=true)](https://github.com/geekdada)
