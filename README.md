@@ -6,4 +6,6 @@
 
 Here's my [**📘 blog**](https://blog.dada.li) and [**🐦 Twitter**](https://twitter.com/geekdada).
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekdada&layout=compact&hide=smarty,html)](https://github.com/geekdada)
+
 [![](https://github-readme-stats.vercel.app/api?username=geekdada&show_icons=true)](https://github.com/geekdada)
