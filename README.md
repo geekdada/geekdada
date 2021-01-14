@@ -9,3 +9,7 @@ Here's my [**📘 blog**](https://blog.dada.li) and [**🐦 Twitter**](https://t
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekdada&layout=compact&hide=smarty,html)](https://github.com/geekdada)
 
 [![](https://github-readme-stats.vercel.app/api?username=geekdada&show_icons=true)](https://github.com/geekdada)
+
+---
+
+![visitors count](https://visitor-badge-pls-dont-use-this-in-your-repo.vercel.app/p/readme)
